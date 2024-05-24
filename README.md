@@ -1,12 +1,12 @@
-Backend Setup
-terminal commad:
-poetry shell
-poetry install
-python manage.py runserver 0.0.0.0:8080
+Backend Setup \n
+terminal commad: \n
+poetry shell \n
+poetry install \n
+python manage.py runserver 0.0.0.0:8080 \n
 
-Frontend Setup
-terminal commad:
-pnpm install
+Frontend Setup \n
+terminal commad: \n
+pnpm install \n
 pnpm dev
 
 
